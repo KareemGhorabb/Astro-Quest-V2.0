@@ -2,7 +2,7 @@ extends RefCounted
 ## Curated, embedded NASA open-data facts used by the simulation.
 ##
 ## Space-weather events are ARCHIVED records of real solar events catalogued in
-## NASA's Space Weather Database Of Notifications, Knowledge, Information (DONKI).
+## NASA's Space  Weather Database Of Notifications, Knowledge, Information (DONKI).
 ## They are never presented as live. A separate optional live request
 ## (see scripts/net/live_donki.gd) may add current flares and is labeled LIVE only
 ## after it succeeds.
