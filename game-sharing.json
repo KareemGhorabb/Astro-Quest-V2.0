@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "title": "Astro Quest: Junior Astronaut Mission Trainer",
+  "description": "Command a Moon outpost! Share out solar power, keep your crew breathing and fed, and make 10-second decisions during real NASA-recorded solar storms. A NASA Space Apps Cairo 2026 game for ages 7-13.",
+  "defaultCaptions": {
+    "x": "I just ran a Moon base in Astro Quest and survived real NASA solar storms! Can you keep your crew safe?",
+    "facebook": "Astro Quest: a Junior Astronaut Mission Trainer made for NASA Space Apps Cairo 2026. Run a lunar outpost, balance air, food, power and radiation shielding, and face real solar flares from NASA's DONKI database.",
+    "reddit": "Astro Quest - a kids' lunar outpost survival sim built on real NASA space-weather data (NASA Space Apps Cairo 2026)",
+    "discord": "Try Astro Quest: keep your Moon crew alive through real NASA solar storms!"
+  },
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}

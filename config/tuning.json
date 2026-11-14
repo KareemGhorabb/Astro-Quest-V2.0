@@ -1,0 +1,217 @@
+{
+  "version": 4,
+  "settings": [
+    {
+      "id": "ui.reduced_motion",
+      "category": "UI",
+      "type": "boolean",
+      "default": false,
+      "unit_key": "unit.none",
+      "apply_mode": "LIVE",
+      "integrity": "COSMETIC",
+      "label_key": "tuning.ui.reduced_motion",
+      "description_key": "tuning.ui.reduced_motion.description",
+      "tags": [
+        "motion",
+        "accessibility",
+        "effects"
+      ]
+    },
+    {
+      "id": "gameplay.mission.days",
+      "category": "Gameplay",
+      "type": "number",
+      "default": 10,
+      "min": 5,
+      "max": 15,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.count",
+      "apply_mode": "NEXT_RUN",
+      "integrity": "GAMEPLAY",
+      "label_key": "tuning.gameplay.mission_days",
+      "description_key": "tuning.gameplay.mission_days.description",
+      "tags": [
+        "mission",
+        "length",
+        "days"
+      ]
+    },
+    {
+      "id": "gameplay.event.timer",
+      "category": "Gameplay",
+      "type": "number",
+      "default": 10,
+      "min": 5,
+      "max": 20,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.seconds",
+      "apply_mode": "NEXT_ACTION",
+      "integrity": "GAMEPLAY",
+      "label_key": "tuning.gameplay.event_timer",
+      "description_key": "tuning.gameplay.event_timer.description",
+      "tags": [
+        "decision",
+        "countdown",
+        "timer"
+      ]
+    },
+    {
+      "id": "gameplay.day.length",
+      "category": "Gameplay",
+      "type": "number",
+      "default": 14,
+      "min": 6,
+      "max": 30,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.seconds",
+      "apply_mode": "NEXT_STAGE",
+      "integrity": "GAMEPLAY",
+      "label_key": "tuning.gameplay.day_length",
+      "description_key": "tuning.gameplay.day_length.description",
+      "tags": [
+        "day",
+        "pace",
+        "speed"
+      ]
+    },
+    {
+      "id": "environment.solar.max_cells",
+      "category": "Environment",
+      "type": "number",
+      "default": 8,
+      "min": 5,
+      "max": 12,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.count",
+      "apply_mode": "NEXT_RUN",
+      "integrity": "GAMEPLAY",
+      "label_key": "tuning.environment.solar_cells",
+      "description_key": "tuning.environment.solar_cells.description",
+      "tags": [
+        "solar",
+        "power",
+        "difficulty"
+      ]
+    },
+    {
+      "id": "environment.crew.air_use",
+      "category": "Environment",
+      "type": "number",
+      "default": 12,
+      "min": 6,
+      "max": 20,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.count",
+      "apply_mode": "NEXT_STAGE",
+      "integrity": "GAMEPLAY",
+      "label_key": "tuning.environment.air_use",
+      "description_key": "tuning.environment.air_use.description",
+      "tags": [
+        "oxygen",
+        "life support",
+        "difficulty"
+      ]
+    },
+    {
+      "id": "audio.master.volume_db",
+      "category": "Audio",
+      "type": "number",
+      "default": 0,
+      "min": -30,
+      "max": 0,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.db",
+      "apply_mode": "LIVE",
+      "integrity": "COSMETIC",
+      "label_key": "tuning.audio.master",
+      "description_key": "tuning.audio.master.description",
+      "tags": [
+        "master",
+        "volume",
+        "mute"
+      ]
+    },
+    {
+      "id": "audio.master.muted",
+      "category": "Audio",
+      "type": "boolean",
+      "default": false,
+      "unit_key": "unit.none",
+      "apply_mode": "LIVE",
+      "integrity": "COSMETIC",
+      "label_key": "tuning.audio.mute",
+      "description_key": "tuning.audio.mute.description",
+      "tags": [
+        "master",
+        "mute",
+        "accessibility"
+      ]
+    },
+    {
+      "id": "audio.music.volume_db",
+      "category": "Audio",
+      "type": "number",
+      "default": -8,
+      "min": -40,
+      "max": 0,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.db",
+      "apply_mode": "LIVE",
+      "integrity": "COSMETIC",
+      "label_key": "tuning.audio.music",
+      "description_key": "tuning.audio.music.description",
+      "tags": [
+        "music",
+        "volume",
+        "title"
+      ]
+    },
+    {
+      "id": "audio.sfx.volume_db",
+      "category": "Audio",
+      "type": "number",
+      "default": -4,
+      "min": -40,
+      "max": 0,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.db",
+      "apply_mode": "LIVE",
+      "integrity": "COSMETIC",
+      "label_key": "tuning.audio.sfx",
+      "description_key": "tuning.audio.sfx.description",
+      "tags": [
+        "effects",
+        "sfx",
+        "volume"
+      ]
+    },
+    {
+      "id": "audio.ui.volume_db",
+      "category": "Audio",
+      "type": "number",
+      "default": -6,
+      "min": -40,
+      "max": 0,
+      "step": 1,
+      "decimals": 0,
+      "unit_key": "unit.db",
+      "apply_mode": "LIVE",
+      "integrity": "COSMETIC",
+      "label_key": "tuning.audio.ui",
+      "description_key": "tuning.audio.ui.description",
+      "tags": [
+        "menu",
+        "ui",
+        "volume"
+      ]
+    }
+  ]
+}

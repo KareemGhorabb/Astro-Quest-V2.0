@@ -1,0 +1,5 @@
+# Astro Quest research notes
+- Loader media uploaded: /manus-storage/astroquest_intro_c54384d6.mp4, /manus-storage/loader_logo_21f5b342.png, /manus-storage/intro_poster_7ebaddc6.jpg, /manus-storage/favicon_b61f8359.png, /manus-storage/PixelifySans-VF_683a7ffa.ttf
+- DONKI api.nasa.gov sends access-control-allow-origin: * (CORS ok); DEMO_KEY rate-limited (429 in sandbox). CCMC kauai host unreachable from sandbox.
+- Verified events: X9.3 2017-09-06 peak 12:02 UT (AGU Berdermann 2018; svs.gsfc.nasa.gov/12706); X8.2 2017-09-10 + SEP impacted Mars (AGU Lee 2018; svs.gsfc.nasa.gov/4491); X8.7 2024-05-14 largest SC25 then (svs.gsfc.nasa.gov/14592); X9.0 2024-10-03 peak 12:18 UTC AR3842 (sidc.be/humain/event_20241003; svs 14701); X1.8 2024-10-09 halo CME, storm Oct 10 (sidc.be article); X5.1 2025-11-11 ~10:04 UTC GLE77 (ESA; svs 14927); SIDC top10: strongest SC25 proton event 8 Jun 2024 1030 pfu M9 flare; GLEs 28 Oct 2021 and 11 May 2024; May 10-12 2024 storm Dst -412.
+- Challenge text in /home/ubuntu/upload/pasted_content.txt; video transcript pasted_content_2.txt.

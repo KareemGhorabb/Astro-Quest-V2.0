@@ -1,0 +1,1187 @@
+{
+  "assets": {
+    "assets/game/buildings/greenhouse.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:65cb9ec1e10e0d4af02aa3a324af80a97ce094ede0556eb76ec24dbffc272b73",
+      "shipped": true,
+      "size": 187364,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/buildings/habitat.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:3004173d42970a51444e47f73c6af994fd36cf86d9f9a38339838e5a7c0796be",
+      "shipped": true,
+      "size": 117047,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/buildings/lab.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:a56616a766ca907ebf25e0389857f99cbad2ac01ca6331d384b319546711bd5e",
+      "shipped": true,
+      "size": 135849,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/buildings/panel_closed.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:083fe714752a2650d31a9f153af746a30e1eb7fd0b87a24ae84b529e48901c1c",
+      "shipped": true,
+      "size": 66719,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/buildings/panel_open.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:59291288128cd94358685d670d632971b2da8b8311ce14289dc1a3e4d215a8b8",
+      "shipped": true,
+      "size": 134101,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/buildings/shelter.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:4fab2014dd0dba3b449b9447c16eb8ed82abb65b1b336eacad70c1f08a3ba0d0",
+      "shipped": true,
+      "size": 116532,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/crew/astronaut_cheer.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:7a29c143ef5a4f010c8fcce0a597a5a2f6fff94a8ec9438ead448e2b7caeb1ef",
+      "shipped": true,
+      "size": 48999,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/crew/astronaut_idle.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:f4fe73f5e1fceb3b44952b474031ec7e8608101850a9151529575573796166a9",
+      "shipped": true,
+      "size": 40348,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/crew/astronaut_walk.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:926daafd4c376dffa63d6587d05dd0500047ae2e4684844222711e389adc569a",
+      "shipped": true,
+      "size": 39676,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/events/dust.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:e7da7d1eeaa937248522fa85c9496f9b3bf3d85a1eb21dad180bb31f3f351ead",
+      "shipped": true,
+      "size": 120363,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/events/earth.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:cd8e2fcb2910eeffe63085606ee9101ee77cf8b196109adef9b10901cecf5718",
+      "shipped": true,
+      "size": 82401,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/events/flare.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:54e70621cceddc6ab6274cc27d22b11ae3506bac5f249645a59fcaa7d4d0eff3",
+      "shipped": true,
+      "size": 107890,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/events/meteor.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:4f8c7ec3f67f74c6b0b0bed882e1e2b9ade2062ad7d9cf74c9042dc30eb500f5",
+      "shipped": true,
+      "size": 55027,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/events/rock.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:55e9cc4022344f0bcf38d9e9ef3d9262493a3bdd8ab24134683b1d193db94103",
+      "shipped": true,
+      "size": 120053,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/fonts/PixelifySans-VF.ttf": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/kit.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:9ba86cd010a4de309d263ceff8e8044092c9db7efda869620cb9ff1c4389e8a5",
+      "shipped": true,
+      "size": 79160,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/kit.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/icons/air.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:b87c7a01e17ea6cc05d34788d13db62e363fd00e1f4d8ccf878386abe16a9ee0",
+      "shipped": true,
+      "size": 10734,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/icons/food.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:0aa944f01e9f4183e616aa697ba5dda68e2ef77d80d20c3e20951996e3d7d16d",
+      "shipped": true,
+      "size": 28785,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/icons/power.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:ae91afeb41fbe0c594f8a10176c4cdd806d9bfaf31c4a730ca69aab9ff261c7e",
+      "shipped": true,
+      "size": 14361,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/icons/radiation.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:0b1a0f5ea2c929e5798ecdeaaf74b201539f429f1f4d17aae99b2a5c801b2793",
+      "shipped": true,
+      "size": 20856,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/icons/science.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:8a5bcc76892db64c686900049d0c96c50ab21576131863135968b69329612edf",
+      "shipped": true,
+      "size": 20493,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/scene/bg_outpost.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:3987c13b1f12e959e12c7268b1336db5430d35eef21407417c128d0c5f9f30bf",
+      "shipped": true,
+      "size": 1523263,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/scene/bg_title.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:d2f6952a46cfa60b4fafbf0f4bd4301a9cd97a7582d4a178cf37f45a8c620dfc",
+      "shipped": true,
+      "size": 1669818,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/scene/lander.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:f96863e5d279d43a6a2738c786a090ef98e11608be25ee8a9a08b385a404c355",
+      "shipped": true,
+      "size": 70733,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd",
+        "scripts/ui/outpost_view.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/game/ui/logo.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "scripts/main.gd"
+      ],
+      "regions": [],
+      "sha256": "sha256:d5f862a694e074658de419bdbb2c3151265d611068ee1684e54cb2da6cae3e54",
+      "shipped": true,
+      "size": 10063,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "scripts/main.gd"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/share/favicon.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "game-sharing.json",
+        "project.godot"
+      ],
+      "regions": [],
+      "sha256": "sha256:74838c536ea0ad422778a667893101d7bc17de04e98544d3d0072c34c573c7cc",
+      "shipped": true,
+      "size": 71226,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "game-sharing.json",
+        "project.godot"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/share/og.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "unknown",
+      "referenceEvidence": [
+        "game-sharing.json"
+      ],
+      "regions": [],
+      "sha256": "sha256:bf636f3ca6d7030908a18f962559e6ee0b35842a98209ddb7117725de0047900",
+      "shipped": true,
+      "size": 929713,
+      "source": {},
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "game-sharing.json"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/template/characters/runner.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:c88485773d6ff9361e036f37d8ac76fb77b8c3f7c041c3f52c8dd222adc8cc21",
+      "shipped": true,
+      "size": 68885,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/characters/sentinel.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:0d9fb751bca5507ba14f7090573e6605a94753390a9e7c53bf2f590f0a24918d",
+      "shipped": true,
+      "size": 64998,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/environment/backdrop.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:ec4ab7867e60fb483dd438459f587b478aac4c1e71ec4fe509ce74a18de34216",
+      "shipped": true,
+      "size": 971282,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/environment/foreground.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:4b6916024c69961fbfa7cdc929c68f547fea4561e61ebdb3405b3aba0efbd94d",
+      "shipped": true,
+      "size": 58603,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/fonts/Figtree-VF.subset.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [
+        "assets/template/fonts/ui_bold.tres",
+        "assets/template/fonts/ui_medium.tres",
+        "assets/template/fonts/ui_regular.tres"
+      ],
+      "regions": [],
+      "sha256": "sha256:b3976c5969c8b1afd81dc3e314b61d8ffe3f3f58cf40906443105d330e6e0bdf",
+      "shipped": true,
+      "size": 23660,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "assets/template/fonts/ui_bold.tres",
+        "assets/template/fonts/ui_medium.tres",
+        "assets/template/fonts/ui_regular.tres"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/template/fonts/NotoSansSC-VF.subset.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {
+        "id": "OFL-1.1",
+        "url": "https://openfontlicense.org/open-font-license-official-text/"
+      },
+      "origin": "template",
+      "referenceEvidence": [
+        "assets/template/fonts/noto_sans_sc_bold.tres",
+        "assets/template/fonts/noto_sans_sc_medium.tres",
+        "assets/template/fonts/noto_sans_sc_regular.tres"
+      ],
+      "regions": [],
+      "sha256": "sha256:38f4c5f927f746b3dfa4c3a5d7edf0b7a3e828e27438418fa54f9e1565289412",
+      "shipped": true,
+      "size": 1869368,
+      "source": {
+        "name": "NotoSansSC-VF.subset.woff2",
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "assets/template/fonts/noto_sans_sc_bold.tres",
+        "assets/template/fonts/noto_sans_sc_medium.tres",
+        "assets/template/fonts/noto_sans_sc_regular.tres"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/template/fonts/display/Sora-VF.subset.woff2": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:438fbf4582548e76b266a738f2c11bcbd5137978f2d2e2f3aaabd49df69186f2",
+      "shipped": true,
+      "size": 41696,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/powerups/energy.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:ffd7906f240f928e785d7c19a9e7a7b5dfab0d7483be5205dda3e4ba17ebe06a",
+      "shipped": true,
+      "size": 50950,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/powerups/magnet.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:6e7354aa6510a462717218b09b9d784bb161b87878bff62ef4f2a9d03c053de7",
+      "shipped": true,
+      "size": 53724,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/powerups/overdrive.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:6a48a85886c0551c1af0df576b0225f0ec3ae86b326fd84fc614083fbfe2908b",
+      "shipped": true,
+      "size": 37238,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/powerups/shield.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:8cebf0cf730ca35c8c8697192ef78121c926442328a0725e0bd3e31701d64f13",
+      "shipped": true,
+      "size": 39659,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/powerups/slow_field.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:96874c000866b2e7503b40da73888afb918ae36e462f51488415157da52a8637",
+      "shipped": true,
+      "size": 49145,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/ui/loading-background.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [
+        "project.godot"
+      ],
+      "regions": [],
+      "sha256": "sha256:16dde3061f4e60802f8f0d1a6b875e72b6add05192237b03fef1fd313968a13a",
+      "shipped": true,
+      "size": 473356,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [
+        "project.godot"
+      ],
+      "used": true,
+      "usedBy": []
+    },
+    "assets/template/ui/pause_glass.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:c88a4725838df85e72c7270865848f275b62c525c5679a2a8b7ecefb1af82d4b",
+      "shipped": true,
+      "size": 115691,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    },
+    "assets/template/ui/title_glass.png": {
+      "declaredUseEvidence": [],
+      "generator": {},
+      "inputs": [],
+      "license": {},
+      "origin": "template",
+      "referenceEvidence": [],
+      "regions": [],
+      "sha256": "sha256:8860db07768f093d4effea10b51431f76a1552d4bc7fd4e57757f189c51f0429",
+      "shipped": true,
+      "size": 155592,
+      "source": {
+        "starterId": "game-generic-v56"
+      },
+      "status": "present",
+      "transformations": [],
+      "useEvidence": [],
+      "used": false,
+      "usedBy": []
+    }
+  },
+  "discoveries": {},
+  "downloads": {},
+  "export": {
+    "coverage": "verified",
+    "hostMedia": [
+      {
+        "contentMatches": [],
+        "path": "index.apple-touch-icon.png",
+        "sha256": "sha256:a0c4000271243b08ebb0c3e1188e924254a1ea4e3144791732502fd8def569b6",
+        "size": 38013,
+        "sourcePaths": []
+      },
+      {
+        "contentMatches": [],
+        "path": "index.icon.png",
+        "sha256": "sha256:70c9bd512ce174ccd6825d27b98f485f1243dec6de03af724caccdfe0ee6f70c",
+        "size": 71415,
+        "sourcePaths": []
+      },
+      {
+        "contentMatches": [],
+        "path": "index.png",
+        "sha256": "sha256:5743a648b82437e0e60db5e4aa08103cea96b01e110961082223c0e7fa819ebf",
+        "size": 1010767,
+        "sourcePaths": []
+      },
+      {
+        "contentMatches": [],
+        "path": "share/74838c536ea0ad422778a667893101d7bc17de04e98544d3d0072c34c573c7cc.png",
+        "sha256": "sha256:74838c536ea0ad422778a667893101d7bc17de04e98544d3d0072c34c573c7cc",
+        "size": 71226,
+        "sourcePaths": [
+          "assets/share/favicon.png"
+        ]
+      },
+      {
+        "contentMatches": [],
+        "path": "share/bf636f3ca6d7030908a18f962559e6ee0b35842a98209ddb7117725de0047900.png",
+        "sha256": "sha256:bf636f3ca6d7030908a18f962559e6ee0b35842a98209ddb7117725de0047900",
+        "size": 929713,
+        "sourcePaths": [
+          "assets/share/og.png"
+        ]
+      }
+    ],
+    "pckSha256": "sha256:40d38be6a198c21b5019a4121cbfcb33094c30720d74f2685a34aa20cea7eb1f",
+    "profile": "release",
+    "sourceFingerprint": "sha256:14958d874c142b35ec5eff1d9945ff5a5e1175e495f25f04dfce4f6b3870875a"
+  },
+  "procedures": {},
+  "summary": {
+    "ancestry": {
+      "ai": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "catalog": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "procedural": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      }
+    },
+    "derivatives": {
+      "retained": 0,
+      "shipped": 0,
+      "used": 0
+    },
+    "exportedHostMedia": {
+      "paths": 5,
+      "uniqueHashes": 5,
+      "unmatchedSourcePaths": 3
+    },
+    "files": {
+      "downloaded": 0,
+      "retained": 41,
+      "shipped": 41,
+      "used": 29
+    },
+    "origins": {
+      "ai": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "catalog": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "derivative": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "external": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "procedural": {
+        "retained": 0,
+        "shipped": 0,
+        "used": 0
+      },
+      "template": {
+        "retained": 15,
+        "shipped": 15,
+        "used": 3
+      },
+      "unknown": {
+        "retained": 26,
+        "shipped": 26,
+        "used": 26
+      }
+    },
+    "packs": {
+      "discovered": 0,
+      "downloaded": 0,
+      "shipped": 0,
+      "used": 0
+    },
+    "proceduralSystems": {
+      "retained": 0,
+      "used": 0
+    },
+    "spriteRegions": {
+      "retained": 0,
+      "shipped": 0,
+      "used": 0
+    },
+    "visualCoverage": {
+      "approvedRevision": 3,
+      "blueprintId": "gbp_4ee6d574a6fbda9fc2f19cac",
+      "committedRoles": 8,
+      "expectedDigest": "cdda408024929b6f4a110f82638b18e07cb4cb3c38a62e87b06ab1e4ebd24f4a",
+      "fulfilledRoles": 0,
+      "roles": [
+        {
+          "id": "supplied_intro",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "supplied_logo",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "outpost_scene",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "crew_presence",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "resource_systems",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "solar_dust_event",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "space_weather_events",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        },
+        {
+          "id": "decision_feedback_ui",
+          "reasons": [
+            "unresolved"
+          ],
+          "status": "unresolved"
+        }
+      ],
+      "search": {
+        "checkedPages": 0,
+        "outcomes": 0,
+        "overflowEvents": 0,
+        "requests": 0
+      },
+      "selectedButUnusedAssets": [],
+      "staleRenderedEvidence": [],
+      "status": "incomplete",
+      "unexplainedFallbacks": [],
+      "unresolvedRoles": [
+        "supplied_intro",
+        "supplied_logo",
+        "outpost_scene",
+        "crew_presence",
+        "resource_systems",
+        "solar_dust_event",
+        "space_weather_events",
+        "decision_feedback_ui"
+      ],
+      "visualQuality": "requires_agent_review"
+    }
+  },
+  "version": 1,
+  "visualCoverage": {
+    "attempts": {},
+    "expected": {
+      "approvedRevision": 3,
+      "blueprintId": "gbp_4ee6d574a6fbda9fc2f19cac",
+      "digest": "cdda408024929b6f4a110f82638b18e07cb4cb3c38a62e87b06ab1e4ebd24f4a",
+      "roles": [
+        {
+          "description": "Use your supplied pixel-art Moon-mission video unchanged as the opening story sequence, with a clearly visible Skip control.",
+          "id": "supplied_intro",
+          "label": "Your supplied opening story video"
+        },
+        {
+          "description": "Use your supplied transparent logo on suitable title, menu, and results screens while preserving its white, orange, and blue lettering and tagline.",
+          "id": "supplied_logo",
+          "label": "Your supplied Astro Quest logo"
+        },
+        {
+          "description": "Show your operational Moon base against a grey lunar surface, dark starry sky, and visible Earth, with a clear layout for monitoring decisions and consequences.",
+          "id": "outpost_scene",
+          "label": "Playable lunar outpost scene"
+        },
+        {
+          "description": "Represent the crew with friendly, age-appropriate pixel-art astronauts whose simple poses or reactions help your players understand safety and mission outcomes.",
+          "id": "crew_presence",
+          "label": "Astronaut crew presence"
+        },
+        {
+          "description": "Make your three top-level systems visually distinct in the outpost, including oxygen, water and food production within life support, while keeping the display simple for ages 7–13.",
+          "id": "resource_systems",
+          "label": "Life-support, power, and shielding systems"
+        },
+        {
+          "description": "Clearly depict exposed versus retracted solar panels, accumulating lunar dust, and the immediate visual stakes of your roughly 10-second decision.",
+          "id": "solar_dust_event",
+          "label": "Solar-panel and dust-storm event visuals"
+        },
+        {
+          "description": "Visualize archived NASA-based flare, CME, and solar energetic particle scenarios without implying that archived data is live, and show how shielding protects your crew.",
+          "id": "space_weather_events",
+          "label": "Radiation and space-weather event visuals"
+        },
+        {
+          "description": "Give your players highly readable English controls, resource changes, countdowns, plain-language term explanations, supportive failure feedback, retry actions, event dates, and NASA data attribution.",
+          "id": "decision_feedback_ui",
+          "label": "Decision, countdown, and consequence interface"
+        }
+      ]
+    },
+    "overflowEvents": 0,
+    "resolutions": {},
+    "version": 1
+  }
+}
